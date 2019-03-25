@@ -1,0 +1,6 @@
+framework module IQKeyboardTools {
+  umbrella header "IQKeyboardTools.h"
+
+  export *
+  module * { export * }
+}
