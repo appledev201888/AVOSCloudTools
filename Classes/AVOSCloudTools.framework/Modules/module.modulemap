@@ -1,6 +1,0 @@
-framework module AVOSCloudTools {
-  umbrella header "AVOSCloudTools.h"
-
-  export *
-  module * { export * }
-}
